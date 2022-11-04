@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'CodeNext-Trial-Regular';
+    src: url('../fonts/CodeNext-Trial-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'CodeNext-ExtraBold';
+    src: url('../fonts/CodeNext-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Thin';
+    src: url('../fonts/LexendDeca-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Black';
+    src: url('../fonts/LexendDeca-Black.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Bold';
+    src: url('../fonts/LexendDeca-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-ExtraBold';
+    src: url('../fonts/LexendDeca-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-ExtraLight';
+    src: url('../fonts/LexendDeca-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Light';
+    src: url('../fonts/LexendDeca-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Medium';
+    src: url('../fonts/LexendDeca-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Regular';
+    src: url('../fonts/LexendDeca-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-SemiBold';
+    src: url('../fonts/LexendDeca-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LexendDeca-Thin';
+    src: url('../fonts/LexendDeca-Thin.ttf') format('truetype');
+}
+
+
+html, body {
+    background-color: #060B0D;
+}
+
+.navbar {
+    font-family: CodeNext-ExtraBold;
+    --bs-bg-opacity: 0;
+}
+
+.container-fluid {
+    background-color: #060b0d;
+    align-content: center;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute;
+}
+
+.navbar navbar-dark {
+    background-color: #060b0d;
+}
+
+.navbar-nav {
+    position: absolute;
+    list-style: none;
+    flex-direction: row;
+    --bs-nav-link-padding-x: 1;
+    padding-left: 32%;
+    margin-bottom: -1%;
+}
+
+.nav-item {
+    margin-inline-start: 10%;
+    margin-inline-end: 10%;
+}
+
+.container-conteudo-principal {
+    margin-top: 15%;
+}
+/*
+.navbar li {
+    list-style: none;
+    border-color: #C97731;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 0%;
+}
+
+    .navbar a {
+        color: #c97731;
+        font-family: "LexendDeca-Light";
+        font-weight: bold;
+        font-size: 14px;
+        text-decoration: none;
+        padding-inline-end: 10px;
+        padding-inline-start: 10px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        text-align: center;
+    }
+
+.navbar li:hover {
+    border-color: #060b0d;
+}
+
+*/
+/* Título principal global */
+.titulo-principal {
+    font-family: "CodeNext-ExtraBold";
+    color: aliceblue;
+    text-align: center;
+    background-color: #060b0d;
+}
+
+
+#container-fundo-inicio {
+}
+/*
+.botao-pequeno {
+    float: right;
+    position: relative;
+    color: #C97731;
+    background-color: #060B0D;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+    font-size: 14px;
+    text-decoration: none;
+    border-color: #C97731;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: thin;
+    cursor: pointer;
+}
+
+#svgPerfil {
+    height: auto;
+    width: 18%;
+}
+
+.botao-pequeno:hover {
+    border-color: #060b0d;
+}
+
+p#cotainer-fundo-inicio {
+    color: white;
+}
+
+
+    #dropdownMenuButton2 {
+    border-color: #C97731;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: thin;
+    padding: 0;
+
+    background-color: #060b0d;
+}
+
+*/
