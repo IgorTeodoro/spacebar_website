@@ -7,8 +7,14 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-
-
+    
+    <nav class="navbar navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="img/SpaceBar-Ver3-roxo-circulo.png" alt="" width="30" height="24">
+            </a>
+        </div>
+    </nav>
 
 </asp:Content>
 
